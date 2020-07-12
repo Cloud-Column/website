@@ -159,6 +159,10 @@ input.inverted::placeholder {
     color: #ddd
 }
 
+textarea.inverted {
+    border-radius: .3rem;
+}
+
 .block-header-1 {
     display: -ms-flexbox;
     display: flex;
@@ -824,3 +828,45 @@ body {
     color: #333
 }
 
+.block-contact-form {
+    margin: 0 auto;
+}
+
+.block-contact-form td.header {
+    font-size: 2em;
+    font-weight: bold;   
+}
+
+.block-contact-form th {
+    text-transform: uppercase;
+    font-size: 0.9em;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.block-contact-form td {
+    padding: 10px 10px 10px 10px;
+    text-align: left;
+}
+
+.block-contact-form td.field {
+    text-align: left;
+}
+
+.block-contact-form td.submit {
+    text-align: left;
+}
+
+.block-contact-form input {
+    width: 250px;
+}
+
+.block-contact-form textarea {
+    width: 500px;
+    height: 200px;
+}
+
+.block-contact-form input[type='submit'] {
+    width: 150px;
+    font-weight: bold;
+}

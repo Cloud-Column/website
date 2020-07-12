@@ -1,26 +1,59 @@
 <section class="block block-hero-1">
-    <div class="container">
-        <form
-          action="https://formspree.io/{{ section.form_id }}"
-          method="POST"
-        >
-          <label>
-            Your Name:
-            <input type="text" name="name">
-          </label>
-          <label>
-            Your Phone Number:
-            <input type="text" name="name">
-          </label>
-          <label>
-            Your Email:
-            <input type="email" name="_replyto">
-          </label>
-          <label>
-            Message:
-            <textarea name="message"></textarea>
-          </label>
-          <input type="submit" value="Send">
-        </form>
+  <div class="container">
+    <div class="cta">
+      <form
+        action="https://formspree.io/{{ section.form_id }}"
+        method="POST"
+      >
+        <table class="block-contact-form">
+          <tr>
+            <td class="header">
+              Contact Us
+            </td>
+          </tr>
+          <tr>
+            <td class="description">
+              If you like what you've seen on our site, please get in contact with us.<br />
+              Leave your details below and we will get back to you as soon as possible!<br /><br />
+            </td>
+          </tr>
+          <tr>
+            <th>Your Name</th>
+          </tr>
+          <tr>
+            <td class="field">
+              <input type="text" name="name" class="inverted">
+            </td>
+          </tr>
+          <tr>
+            <th>Your Phone Number</th>
+          </tr>
+          <tr>
+            <td class="field">
+              <input type="text" name="phone_number" class="inverted">
+            </td>
+          </tr>
+          <tr>
+            <th>Your Email</th>
+          </tr>
+          <tr>
+            <td class="field">
+              <input type="email" name="_replyto" class="inverted">
+            </td>
+          </tr>
+          <tr>
+            <th>Message</th>
+          </tr>
+          <tr>
+            <td class="field">
+              <textarea name="message" class="inverted"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td class="submit"><input type="submit" value="Send" class="button primary inverted"></td>
+          </tr>
+        </table>
+      </form>
     </div>
+  </div>
 </section>
