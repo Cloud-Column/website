@@ -88,7 +88,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Cloud Column
-published: false
 
 ---
 foo bar
