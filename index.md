@@ -70,6 +70,17 @@ page_sections:
   media:
     image: "/uploads/2020/07/12/new-webmail-groupoffice-released-for-polarismail-users-1000px.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Most importantly, our <strong>team is here for you</strong>
+  media:
+    image: "/uploads/2020/07/12/austin-kehmeier-lyikexa4zqa-unsplash.jpg"
+    alt_text: ''
+  content: Ultimately, Cloud Column is a business dedicated to helping our customers
+    build their web presence in a cost-effective way. We believe in an open internet
+    and want <strong>everyone</strong> to have access to a website, not just those
+    people with plenty of money.
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
