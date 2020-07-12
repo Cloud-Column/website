@@ -85,7 +85,7 @@ page_sections:
     to have access to a website, not just those people with plenty of money.
 - template: detail-content
   block: text-1
-  content: "<h1>Pricing</h1>"
+  content: "<h1>Pricing and Plans</h1>"
   headline: ''
 - template: 3-column-text
   block: three-column-1
