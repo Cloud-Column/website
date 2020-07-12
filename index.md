@@ -33,12 +33,28 @@ page_sections:
     image: "/uploads/2020/07/12/column-image.png"
     alt_text: Product Shot
   background_image: ''
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <img src="/uploads/2020/07/12/noun_website_1912399.png"><br>Providing
+      low-cost, fully-featured cPanel Hosting, Cloud Column makes sure that your Website
+      is second-to-none.
+    headline: Hosting
+  col_2:
+    headline: Email
+    content: <img src="/uploads/2020/07/12/noun_email_348286.png"><br>We provide email
+      hosting or email forwarding services. Tailored to you, we don't oversell or
+      under provide - we give you what you need.
+  col_3:
+    headline: ''
+    content: ''
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ by Cloud Column
+published: false
 
 ---
 foo bar
