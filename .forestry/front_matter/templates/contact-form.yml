@@ -7,3 +7,7 @@ fields:
   label: block
   name: block
   default: contact-form
+- type: text
+  hidden: false
+  label: Formspree ID
+  name: form_id
