@@ -82,12 +82,6 @@ page_sections:
     services is who we are, and we want to make sure that hosting with us is a great
     experience for you. We also believe in an open internet and want <strong>everyone</strong>
     to have access to a website, not just those people with plenty of money.
-- template: detail-content
-  block: text-1
-  headline: Testimonials
-  content: "<blockquote><p>Thanks Adam! You nailed our sites. I know it was tricky
-    with so many elements and we couldn't be happier. Spot on with the aesthetics
-    and usability.</p><p>Carolyn Martinez, Director, Hawkeye Publishing</p></blockquote>"
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
