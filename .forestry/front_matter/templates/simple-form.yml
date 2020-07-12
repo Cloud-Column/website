@@ -33,4 +33,9 @@ fields:
     config:
       required: false
     label: Button Text
+  - name: fields
+    type: include
+    config: {}
+    template: form-fields
+    label: Fields
   label: Form
