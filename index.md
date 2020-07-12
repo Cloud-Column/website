@@ -86,7 +86,7 @@ page_sections:
 - template: detail-content
   block: text-1
   content: "<h1>Pricing and Plans</h1>"
-  headline: ''
+  headline: Test
 - template: 3-column-text
   block: three-column-1
   anchor_label: pricing
