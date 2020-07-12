@@ -78,9 +78,10 @@ page_sections:
     image: "/uploads/2020/07/12/noun_helping-hand_659885.png"
     alt_text: ''
   content: Ultimately, Cloud Column is a business dedicated to helping our customers
-    build their web presence in a cost-effective way. We believe in an open internet
-    and want <strong>everyone</strong> to have access to a website, not just those
-    people with plenty of money.
+    build their web presence in a cost-effective way. Providing quality products and
+    services is who we are, and we want to make sure that hosting with us is a great
+    experience for you. We also believe in an open internet and want <strong>everyone</strong>
+    to have access to a website, not just those people with plenty of money.
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
