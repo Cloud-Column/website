@@ -50,6 +50,16 @@ page_sections:
     content: <img src="/uploads/2020/07/12/noun_piggy-bank_2976170.png"><br>Comparable
       services with other providers cost at least double what Cloud Column charges.
       Our customers are who we do it for, not the money.
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Build your own way</strong> with cPanel"
+  content: Our hosting is based on cPanel, which means you can easily build and customise
+    your website as you like. However, if that sounds like too much effort, get in
+    touch and we can provide a customised package to get your site out the door!
+  media:
+    image: "/uploads/2020/07/12/cpanel_interface.svg"
+    alt_text: ''
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
