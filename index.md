@@ -36,13 +36,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-- template: text-only-hero-banner
-  block: hero-1
-  heading: <p>&lt;form</p><p>  action="https://formspree.io/FORM_ID"</p><p>  method="POST"</p><p>&gt;</p><p>  &lt;label&gt;</p><p>    Your
-    Name:</p><p>    &lt;input type="text" name="name"&gt;</p><p>  &lt;/label&gt;</p><p>  &lt;label&gt;</p><p>    Your
-    Email:</p><p>    &lt;input type="email" name="_replyto"&gt;</p><p>  &lt;/label&gt;</p><p>  &lt;label&gt;</p><p>    Message:</p><p>    &lt;textarea
-    name="message"&gt;&lt;/textarea&gt;</p><p>  &lt;/label&gt;</p><p>  &lt;input type="submit"
-    value="Send"&gt;</p><p>&lt;/form&gt;</p>
+- template: contact-form
+  block: contact-form
 
 ---
 foo bar
