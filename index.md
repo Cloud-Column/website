@@ -88,8 +88,9 @@ page_sections:
   anchor_label: pricing
   col_1:
     headline: Starter
-    content: '<img src="/uploads/2020/07/12/starter.png"><br>This plan is for those
-      businesses who are just starting out and want to host a basic website. '
+    content: <img src="/uploads/2020/07/12/starter.png"><br>This plan is for those
+      individuals and businesses who are just starting out and want to host a basic
+      website. It includes low resource allocations, POP mailbox, and 2 GB of storage.
   col_2:
     headline: Growth
     content: <img src="/uploads/2020/07/12/growth.png">
