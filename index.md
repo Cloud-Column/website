@@ -91,8 +91,8 @@ page_sections:
     content: '<img src="/uploads/2020/07/12/starter.png"><br>This plan is for those
       businesses who are just starting out and want to host a basic website. '
   col_2:
-    headline: ''
-    content: ''
+    headline: Growth
+    content: <img src="/uploads/2020/07/12/growth.png">
   col_3:
     headline: ''
     content: ''
