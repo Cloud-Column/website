@@ -86,6 +86,7 @@ page_sections:
 - template: detail-content
   block: text-1
   content: "<h1>Pricing and Plans</h1>"
+  headline: ''
 - template: 3-column-text
   block: three-column-1
   anchor_label: pricing
@@ -110,6 +111,12 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Cloud Column
+- template: detail-content
+  block: text-1
+  headline: Inclusions
+  content: "<p>All of the above plans include:</p><ul><li><p>POP Mailbox.</p></li><li><p>Domain
+    Management.</p></li><li><p>cPanel Access.</p></li><li><p>2 Hours of Cloud Column
+    Support.</p></li></ul>"
 
 ---
 foo bar
