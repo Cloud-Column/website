@@ -20,17 +20,19 @@ page_sections:
     button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Welcome to<br><strong>Cloud Column</strong>
+  content: Cloud Column is here to help you host your website and meet your IT needs
+    without all the traditional hassle and cost. With easy, simple pricing models
+    and a support team here for you 24×7, 365 days a year, Cloud Column is here to
+    support you.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Learn More
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2020/07/12/column-image.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
