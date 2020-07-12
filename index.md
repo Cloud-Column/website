@@ -16,7 +16,7 @@ page_sections:
   - link: "#team"
     link_text: Team
   cta:
-    url: "#cta"
+    url: "#contact-form"
     button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
