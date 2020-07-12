@@ -83,6 +83,19 @@ page_sections:
     services is who we are, and we want to make sure that hosting with us is a great
     experience for you. We also believe in an open internet and want <strong>everyone</strong>
     to have access to a website, not just those people with plenty of money.
+- template: 3-column-text
+  block: three-column-1
+  anchor_label: pricing
+  col_1:
+    headline: Starter
+    content: '<img src="/uploads/2020/07/12/15_per_month.png"><br>This plan is for
+      those businesses who are just starting out and want to host a basic website. '
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
