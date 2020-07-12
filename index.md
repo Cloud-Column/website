@@ -46,8 +46,10 @@ page_sections:
       hosting or email forwarding services. Tailored to you, we don't oversell or
       under provide - we give you what you need.
   col_3:
-    headline: ''
-    content: ''
+    headline: Cost Effective
+    content: <img src="/uploads/2020/07/12/noun_piggy-bank_2976170.png"><br>Comparable
+      services with other providers cost at least double what Cloud Column charges.
+      Our customers are who we do it for, not the money.
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
