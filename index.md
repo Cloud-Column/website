@@ -88,10 +88,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Cloud Column
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/07/12/austin-kehmeier-lyikexa4zqa-unsplash.jpg"
-  caption: ''
 published: false
 
 ---
