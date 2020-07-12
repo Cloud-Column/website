@@ -13,8 +13,8 @@ page_sections:
     link_text: Services
   - link: "#pricing"
     link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "/legal"
+    link_text: Legal
   cta:
     url: "#contact-form"
     button_text: Contact
