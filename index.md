@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: ".block-three-column-1"
+  - link: "#services"
     link_text: Services
   - link: "#pricing"
     link_text: Pricing
@@ -50,6 +50,7 @@ page_sections:
     content: <img src="/uploads/2020/07/12/noun_piggy-bank_2976170.png"><br>Comparable
       services with other providers cost at least double what Cloud Column charges.
       Our customers are who we do it for, not the money.
+  anchor_label: services
 - template: content-feature
   block: feature-1
   media_alignment: Left
