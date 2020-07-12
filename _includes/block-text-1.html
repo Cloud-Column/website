@@ -5,10 +5,14 @@
       <div class="column headline">
         <h3>{{ section.headline }}</h3>
       </div>
-      {% endif %}
       <div class="column text">
         {{ section.content }}
       </div>
+      {% else %}
+      <div class="column" style="text-align: center; width: 100%;">
+        {{ section.content }}
+      </div>
+      {% endif %}
     </div>
   </div>
 </section>
