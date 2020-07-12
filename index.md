@@ -98,10 +98,9 @@ page_sections:
       It includes reasonable resource allocations, POP mailbox, and 4 GB of storage.
   col_3:
     headline: Accelerate
-    content: <br><img src="/uploads/2020/07/12/accelerate.png"><br>This plan is for
-      those businesses that want to turbocharge their online presence. It includes
-      massive resource allocations, POP mailbox, and 10 GB of storage. Email forwarding
-      can be arranged if you already have a corporate email solution.
+    content: <img src="/uploads/2020/07/12/accelerate.png"><br>This plan is for those
+      businesses that want to turbocharge their online presence. It includes massive
+      resource allocations, POP mailbox, and 10 GB of storage.
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
