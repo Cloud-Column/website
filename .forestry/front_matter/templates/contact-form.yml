@@ -1,8 +1,0 @@
----
-label: contact-form
-hide_body: false
-fields:
-- type: text
-  label: formspree id
-  name: formspree_id
-  default: FORMSPREE_ID
