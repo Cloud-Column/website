@@ -60,6 +60,16 @@ page_sections:
   media:
     image: "/uploads/2020/07/12/cpanel_interface.svg"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Professional Email</strong> customised to meet your needs"
+  content: We provide professional email services that are flexible for your needs.
+    Our three options for email provide the tools you need to build your website and
+    brand. We don't oversell and make sure you're always happy with your solution.
+  media:
+    image: "/uploads/2020/07/12/new-webmail-groupoffice-released-for-polarismail-users-1000px.png"
+    alt_text: ''
 - template: contact-form
   block: contact-form
   form_id: mvoovbgn
