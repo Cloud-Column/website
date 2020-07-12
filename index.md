@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#3-column-text"
+  - link: ".block-three-column-1"
     link_text: Services
   - link: "#pricing"
     link_text: Pricing
