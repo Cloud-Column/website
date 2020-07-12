@@ -83,6 +83,10 @@ page_sections:
     services is who we are, and we want to make sure that hosting with us is a great
     experience for you. We also believe in an open internet and want <strong>everyone</strong>
     to have access to a website, not just those people with plenty of money.
+- template: detail-content
+  block: text-1
+  content: "<h1>Pricing</h1>"
+  headline: ''
 - template: 3-column-text
   block: three-column-1
   anchor_label: pricing
