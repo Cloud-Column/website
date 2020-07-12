@@ -72,7 +72,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Most importantly, our <strong>team is here for you</strong>
   media:
     image: "/uploads/2020/07/12/austin-kehmeier-lyikexa4zqa-unsplash.jpg"
