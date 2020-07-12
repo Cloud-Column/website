@@ -75,7 +75,7 @@ page_sections:
   media_alignment: Left
   headline: Most importantly, our <strong>team is here for you</strong>
   media:
-    image: "/uploads/2020/07/12/austin-kehmeier-lyikexa4zqa-unsplash.jpg"
+    image: "/uploads/2020/07/12/noun_helping-hand_659885.png"
     alt_text: ''
   content: Ultimately, Cloud Column is a business dedicated to helping our customers
     build their web presence in a cost-effective way. We believe in an open internet
