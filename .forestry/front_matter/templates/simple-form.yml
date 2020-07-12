@@ -1,4 +1,36 @@
 ---
 label: simple-form
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: form_description
+  type: text
+  config:
+    required: false
+  label: Form Description
+- name: form
+  type: field_group
+  config: {}
+  fields:
+  - name: type
+    type: text
+    config:
+      required: false
+    hidden: true
+    label: Type
+    default: simple
+  - name: recipient
+    type: text
+    config:
+      required: false
+    label: Recipient
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  label: Form
