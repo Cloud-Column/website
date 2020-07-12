@@ -105,18 +105,18 @@ page_sections:
     content: <img src="/uploads/2020/07/12/accelerate.png"><br>This plan is for those
       businesses that want to turbocharge their online presence. It includes massive
       resource allocations, POP mailbox, and 10 GB of storage.
-- template: contact-form
-  block: contact-form
-  form_id: mvoovbgn
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ by Cloud Column
 - template: detail-content
   block: text-1
   headline: Inclusions
   content: "<p>All of the above plans include:</p><ul><li><p>POP Mailbox.</p></li><li><p>Domain
     Management.</p></li><li><p>cPanel Access.</p></li><li><p>2 Hours of Cloud Column
     Support.</p></li></ul>"
+- template: contact-form
+  block: contact-form
+  form_id: mvoovbgn
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ by Cloud Column
 
 ---
 foo bar
