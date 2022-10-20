@@ -9,6 +9,7 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+  new_doc_ext: ".markdown"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
